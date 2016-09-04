@@ -235,7 +235,6 @@ defaults:
   - scope:
       path: ""
       type: posts
-      layout: single
     values:
       author_profile: true
-
+      layout: single
