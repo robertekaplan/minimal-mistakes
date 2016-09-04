@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Germany Never Accepted Defeat in WWII"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Robert E. Kaplan"
+description              : "A critical historical analysis of German foreign policy"
+url                      : "https://robertekaplan.github.io"
+baseurl                  : "/"
+repository               : "robertekaplan/robertekaplan.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Robert E. Kaplan"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a historian of modern European history. I have a Phd from Cornell."
+  location         : "US"
+  email            : "robert AT robertekaplan.net"
   uri              :
   bitbucket        :
   codepen          :
