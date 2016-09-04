@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Germany Never Accepted Defeat in WWII"
 title_separator          : "-"
 name                     : "Robert E. Kaplan"
-description              : "A critical historical analysis of German foreign policy"
+description              : "A critical historical analysis of Germany's still subversive foreign policy"
 url                      : "https://robertekaplan.github.io"
 baseurl                  : "/"
 repository               : "robertekaplan/robertekaplan.github.io"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Robert E. Kaplan"
   avatar           : "bio-photo.jpg"
-  bio              : "I am a historian of modern European history. I have a Phd from Cornell."
+  bio              : "I have a PhD in modern European history from Cornell."
   location         : "US"
-  email            : "robert AT robertekaplan.net"
+  email            : "robert@robertekaplan.net"
   uri              :
   bitbucket        :
   codepen          :
